@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Home Events -->
+    <dimen name="home_height_view">220dp</dimen>
+    <dimen name="home_title_margin_top">60dp</dimen>
+    <dimen name="home_title_margin_start">25dp</dimen>
+
+    <dimen name="home_back_margin_top">120dp</dimen>
+
+    <dimen name="home_recycler_margin_top">20dp</dimen>
+    <dimen name="home_recycler_margin_end">10dp</dimen>
+    <dimen name="home_recycler_margin_start">10dp</dimen>
+
+
+    <!-- Item Events -->
+    <dimen name="item_events_margin_start">15dp</dimen>
+    <dimen name="item_events_margin_end">15dp</dimen>
+    <dimen name="item_events_margin_top">10dp</dimen>
+    <dimen name="item_events_margin_bottom">10dp</dimen>
+    <dimen name="item_events_elevation">5dp</dimen>
+    <dimen name="item_events_height">220dp</dimen>
+
+    <dimen name="item_events_bg_bottom_height">60dp</dimen>
+
+    <dimen name="item_events_text_margin_top">5dp</dimen>
+    <dimen name="item_events_text_margin_start">15dp</dimen>
+    <dimen name="item_events_text_margin_end">15dp</dimen>
+
+    <!-- Item Events -->
+    <dimen name="details_background_height">220dp</dimen>
+    <dimen name="details_background_margin_top">180dp</dimen>
+
+    <dimen name="details_ic_height">30dp</dimen>
+    <dimen name="details_ic_width">30dp</dimen>
+
+    <dimen name="details_iv_price_margin_start">25dp</dimen>
+    <dimen name="details_iv_price_margin_top">20dp</dimen>
+
+    <dimen name="details_tv_price_margin_start">10dp</dimen>
+
+    <dimen name="details_tv_calendar_margin_start">10dp</dimen>
+    <dimen name="details_tv_calendar_margin_end">15dp</dimen>
+
+    <dimen name="details_iv_calendar_margin_end">15dp</dimen>
+
+    <dimen name="details_tv_desc_margin_start">25dp</dimen>
+    <dimen name="details_tv_desc_margin_top">20dp</dimen>
+
+    <dimen name="details_scroll_margin_start">15dp</dimen>
+    <dimen name="details_scroll_margin_top">20dp</dimen>
+    <dimen name="details_scroll_margin_end">15dp</dimen>
+
+    <dimen name="details_btn_circle_size">65dp</dimen>
+    <dimen name="details_btn_circle_icon_size">30dp</dimen>
+    <dimen name="details_btn_elevation">5dp</dimen>
+    <dimen name="details_btn_margin_end">15dp</dimen>
+
+    <dimen name="details_btn_share_margin_bottom">160dp</dimen>
+
+    <dimen name="details_btn_check_margin_bottom">80dp</dimen>
+
+
+
+
+</resources>

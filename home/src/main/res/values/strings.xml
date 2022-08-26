@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home_title">Sicredi Eventos</string>
+    <string name="details_label_desc">Descrição: </string>
+
+    <!-- Strings Compartilhar  -->
+    <string name="details_share_name">Sicredi </string>
+    <string name="details_title_share">Venha Conhecer! </string>
+    <string name="details_share_day">No dia:  </string>
+    <string name="details_share_price">Por apenas:  </string>
+    <string name="details_share_final">Não vai ficar de fora !!!  </string>
+
+    <string name="details_error_email">Informe um e-mail válido !</string>
+    <string name="details_error_name_variable"> Seu nome deve ter menos de <b>%1$s</b> caracteres!</string>
+
+
+    <string name="details_check_sucess">Check-in Realizado com Sucesso!!</string>
+    <string name="details_check_error">Infelizmente aconteceu algum erro :(</string>
+</resources>

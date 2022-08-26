@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Botão Padrão Preenchido-->
+    <style name="SicrediEvents.Button" parent="Widget.MaterialComponents.Button">
+        <item name="cornerRadius">20dp</item>
+    </style>
+
+    <!-- Botão Padrão Apenas Linha-->
+    <style name="SicrediEvents.Button.Outline" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="cornerRadius">20dp</item>
+    </style>
+
+    <!--Botão Totalmente Preenchido, Bordas Arredondadas, Cor Padrao -->
+    <style name="SicrediEvents.Button.Full" parent="SicrediEvents.Button">
+        <item name="android:insetBottom">0dp</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="backgroundTint">@color/color_button_default_full</item>
+        <item name="android:textColor">@android:color/transparent</item>
+        <item name="android:textAppearance">@style/TextAppearance.SicrediEvents.Button.Full.Headline</item>
+        <item name="android:textAppearanceButton">@style/TextAppearance.SicrediEvents.Button.Full.Headline</item>
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">16dp</item>
+        <item name="rippleColor">@android:color/white</item>
+        <item name="minHeight">48dp</item>
+    </style>
+
+    <!--Botão Apenas Linha, Bordas Arredondadas, Cor Branca-->
+    <style name="SicrediEvents.Button.Outline.Gray" parent="SicrediEvents.Button.Outline">
+        <item name="android:insetBottom">0dp</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="strokeColor">@color/color_button_full_white</item>
+        <item name="strokeWidth">2dp</item>
+        <item name="android:textColor">@android:color/darker_gray</item>
+        <item name="android:textAppearance">@style/TextAppearance.SicrediEvents.Button.Full.Headline</item>
+        <item name="android:textAppearanceButton">@style/TextAppearance.SicrediEvents.Button.Full.Headline</item>
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">16dp</item>
+        <item name="rippleColor">@android:color/white</item>
+        <item name="minHeight">54dp</item>
+        <item name="android:shadowRadius">0</item>
+        <item name="elevation">0dp</item>
+    </style>
+
+</resources>
