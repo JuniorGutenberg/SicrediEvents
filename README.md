@@ -13,10 +13,10 @@
 - OkHttp
 
 # Chamadas
--RxAndroid
+- RxAndroid
 
 # RestAPI
--Retrofit
+- Retrofit
 
 # Test
 - Mockito
